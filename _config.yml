@@ -24,7 +24,7 @@ navigation:                  # (optional) site navigation in the header
   - jelly.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto://mike@mccamon.org"
+  envelope: "mailto:mike@mccamon.org"
   github: "https://github.com"
   rss: "/feed.xml"
 
