@@ -1,4 +1,4 @@
-title: ""
+title: "Staff Projects"
 author: ""
 description: ""
 
@@ -23,7 +23,7 @@ navigation:                  # (optional) site navigation in the header
   - about.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
+  envelope: "mailto:mike@mccamon.org"
   github: "https://github.com"
   rss: "/feed.xml"
 
